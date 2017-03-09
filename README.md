@@ -1,5 +1,5 @@
 # DE_Tweeter_OpenWeather
-A first project to deliver results on the statistics and data driven modeling of tweet text correlated with the weather conditions.
+A first project to deliver results on the statistics and data driven modeling of tweet text correlated with the weather conditions. Please refer to jpeg files in this repo for a brief introduction to the project.
 
 
 
