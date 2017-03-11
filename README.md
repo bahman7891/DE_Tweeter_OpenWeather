@@ -13,7 +13,6 @@ Project: Tweet Sentiment vs. Weather Condition
 > Tweeter API 
 > Openweather API
 
-> The purpose of this project is to provide a platform for data science projects. It might be helpful to think of yourself two months ago: what would you have wanted (though perhaps not known that you would have wanted) in order to do a statistical analysis or train a model based on this data?
 
 
 ### Problem:
