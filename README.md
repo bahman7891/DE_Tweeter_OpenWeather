@@ -17,7 +17,7 @@ Project: Tweet Sentiment vs. Weather Condition
 
 ### Problem:
 
-> Given the worlwide stream of social nework data, here specifically tweets what information can be extracted from such massive amount of data. One type of important information obtained from such data is related to the social aspect of them, specifically the human psychology. In this project we aim at recognizing what effects the weather conditions may have on human psyche in different locations. For this purpose weather data will be also obtained from streaming output (openweather service). Using natural language processing and data analysis tools, for the proof of concept and as an initial approach to solving such problem we combine the social network data and weather data to gain insight on how the weather conditions affect the human sentiment.
+> Given the worlwide stream of social nework data, here specifically tweets what information can be extracted from such massive amount of data? One type of important information obtained from such data is related to the social aspect of them, specifically the human psychology. In this project we aim at recognizing what effects the weather conditions may have on human psyche in different locations. For this purpose weather data will be also obtained from streaming output (openweather service). Using natural language processing and data analysis tools, for the proof of concept and as an initial approach to solving such problem we combine the social network data and weather data to gain insight on how the weather conditions affect the human sentiment.
 
 
 ### Robustness and fault tolerance:
