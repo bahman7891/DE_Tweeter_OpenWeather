@@ -22,7 +22,7 @@ Project: Tweet Sentiment vs. Weather Condition
 
 ### Robustness and fault tolerance:
 
-> This app is using distributed computation system Spark. Spark with its ingerent RDD structure is robust against the fault in computing nodes. We used Spark DataFrame and Spark SQL wraps of the RDD structure for feature extraction and later using map-reduce algorithms we exctract information.
+> This app is using distributed computation system Spark. Spark with its inherent RDD structure is robust against the fault in computing nodes. We used Spark DataFrame and Spark SQL wraps of the RDD structure for feature extraction and later, using map-reduce algorithms we exctract information.
 
 
 ### Low latency reads and updates:
